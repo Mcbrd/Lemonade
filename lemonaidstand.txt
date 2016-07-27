@@ -1,0 +1,89 @@
+Team sasquatch lemonade stand
+
+requirements
+
++-------------+    LEMONADE STAND
+| Lemonade __ |    
++-------------+     buy lemons: 
+|             |     buy sugar:
+|      |:|}   |     buy ice:
+| []   |:|    |
++=============+     set price:
+|||===|||===|||
+|XX|||XXX|||XX|
+|||===|||===|||
+
+         1 lemonade stand!!!!!
+brad     2 weather prediction     = pontental cust
+brad     3 weather model       
+j & C    4 supply and demand mode   = pitchers made
+robert   5 costumers with different tastes  = cups sold
+Ray      6 multi-player (hot seat)  
+Keith    7 AI                       
+Matt ++  8 advertising (positive, mudslinging)
+Josh     9 persistent scores
+Josh    10 user accounts
+Matt    11 network multilayer (11.5 messages and such)
+Eion    12 GUI graphics
+        13 secondary market
+        14 stock market
+
+
+
+
+lemonade rules!
+    core lemonade rules
+        buy supplies
+         mulitpul distributers
+
+            lemon
+            sugar
+            ice
+            cups
+            **bribes
+            **license
+        set price per cup
+        demand
+            based on price
+            based on weather
+            based on news
+        supply loss
+            lemons go bad
+            bugs in sugar
+            ice melts
+            licenses expires
+
+        hot seat multiplayer
+
+
+        cust. reviews
+        weather perdition
+            scrape weather?
+            -make up weather?
+
+
+
+    win condition:
+        most money
+
+rescipy
+    delta
+        lemons
+        iced
+        sugar
+        cups
+number of cust
+    set number walk by
+        probs to get
+            weather 
+
+
+
+
+
+
+
+
+
+
+
